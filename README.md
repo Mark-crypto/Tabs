@@ -1,7 +1,7 @@
 # Tabs
 ## Tabs displaying jobs and their respective details
 - The project is done in React JS and the main hooks in use are useEffect and useState.
-- If you are interested in learning about hooks you can check my medium article: <a herf="https://medium.com/@mark.onyango_95482/hooks-in-react-75c3045e92e1">CLICK HERE</a>
+- If you are interested in learning about hooks you can check my medium article: <a href="https://medium.com/@mark.onyango_95482/hooks-in-react-75c3045e92e1">CLICK HERE</a>
 - useEffect is used to access a link from an API where we access our data.
 - Noticably we use a third party package called UUID. The package simply provides us unique IDs to use for our project.
 - To learn and explore UUID: <a href="https://www.npmjs.com/package/uuid">CLICK HERE</a>
